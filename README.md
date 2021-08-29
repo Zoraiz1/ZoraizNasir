@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @ZoraizNasir. I'm a CS student at University of Ottawa currently in 2nd year.
+
+- 🌱 I’m currently learning Full stack web dev. I want to develop web apps.
+
+- 📫 You can reach me on my linkedin at https://www.linkedin.com/in/zoraiz-nasir-3326641a7 Username is Zoraiz Nasir
+also you can reach me at my email zoraiznasir001@gamil.com
